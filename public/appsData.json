@@ -1,0 +1,381 @@
+[
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/62/90/1d629020-800e-f9e3-40d1-adc559c44af1/08.png/643x0w.jpg",
+    "title": "FocusMate",
+    "companyName": "Neural Labs Ltd",
+    "id": 1,
+    "description": "FocusMate is a productivity companion that uses AI-assisted focus sessions and habit tracking to help users eliminate distractions and maintain deep work states. The app integrates timer modes, personalized break schedules, and statistical progress reports, ensuring an optimized daily workflow. Users can set goals, monitor habits, and receive tailored insights to improve long-term consistency and performance across professional and personal tasks.",
+    "size": 82,
+    "reviews": 12500,
+    "ratingAvg": 4.6,
+    "downloads": 2.5,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 760 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 7620 }
+    ]
+  },
+
+  {
+    "image": "https://play-lh.googleusercontent.com/T0ELxdcTQ7Tg-6H8mFj8rrIherEY29BOQqMleFUGbYuSxE4arsIpyKn-3gvdq5NFag=w240-h480-rw",
+    "title": "PhotoVerse",
+    "companyName": "Pixelify Studios",
+    "id": 2,
+    "description": "PhotoVerse brings professional photo editing tools to everyone with an easy interface, real-time filters, and AI-driven touch-up features. It allows users to enhance portraits, remove backgrounds, and create aesthetic collages instantly. The app’s smart engine adjusts lighting and tone automatically, while preserving image quality. Designed for social creators and photographers who want studio-grade results directly on their mobile devices.",
+    "size": 115,
+    "reviews": 38200,
+    "ratingAvg": 4.3,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 5400 },
+      { "name": "4 star", "count": 10200 },
+      { "name": "5 star", "count": 17300 }
+    ]
+  },
+
+  {
+    "image": "data:image/jpeg;base64,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",
+    "title": "MindTrack",
+    "companyName": "Wellbeing Works",
+    "id": 3,
+    "description": "MindTrack is a mental health companion that enables users to monitor mood patterns, stress triggers, and emotional trends. With guided journaling, breathing exercises, and CBT-based prompts, it encourages mindfulness and balanced emotional health. It includes daily check-ins, progress graphs, and professional resource links. The app empowers individuals to track and improve mental well-being using science-backed psychological frameworks.",
+    "size": 64,
+    "reviews": 8700,
+    "ratingAvg": 4.7,
+    "downloads": 1.4,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 5320 }
+    ]
+  },
+
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d2/b0/4ed2b052-2538-104f-6fae-b69f428615c3/Icon-0-1x_U007epad-0-1-0-85-220-0.png/1200x630wa.png",
+    "title": "Learnly",
+    "companyName": "EduNext Global",
+    "id": 4,
+    "description": "Learnly delivers a modern learning experience through interactive video lessons, quizzes, and real-time feedback systems. Designed for students and lifelong learners, it offers structured courses across STEM, business, and creative fields. The app’s algorithm tailors content recommendations to learning pace and goals. Users can download materials offline, compete in global leaderboards, and track mastery with detailed analytics.",
+    "size": 92,
+    "reviews": 19800,
+    "ratingAvg": 4.8,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 13550 }
+    ]
+  },
+
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/55/94/315594b7-65f2-84ce-644f-8ebaf6aa723e/a5ae4c2b-ced6-430d-b074-96dc4d09a1de_finquest1.jpg/643x0w.jpg",
+    "title": "FinQuest",
+    "companyName": "Finova Tech",
+    "id": 5,
+    "description": "FinQuest is a smart finance and budget management tool built for individuals and small businesses. It syncs with bank accounts to track income, expenses, and savings goals automatically. The app visualizes data with charts, helps set financial milestones, and provides predictive insights based on spending behavior. With real-time alerts and customizable budget plans, users can achieve better control over their financial life.",
+    "size": 70,
+    "reviews": 15300,
+    "ratingAvg": 4.5,
+    "downloads": 3.1,
+    "ratings": [
+      { "name": "1 star", "count": 680 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 8570 }
+    ]
+  },
+
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/a6/e5/b7a6e595-ff5d-f5a5-e728-f20bed0c7ea5/Group_1000005170__U00281_U0029_1.png/643x0w.jpg",
+    "title": "FitCore",
+    "companyName": "CoreTech Digital",
+    "id": 6,
+    "description": "FitCore is a comprehensive fitness app offering personalized workout plans, meal tracking, and real-time performance monitoring. It uses AI to adapt exercises to individual fitness levels and goals, ensuring continuous progress. Users can access hundreds of guided workouts, track calories, and sync data with wearable devices. It motivates consistency through challenges, streaks, and reward-based milestones.",
+    "size": 89,
+    "reviews": 22800,
+    "ratingAvg": 4.4,
+    "downloads": 5.3,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 2900 },
+      { "name": "4 star", "count": 6300 },
+      { "name": "5 star", "count": 10800 }
+    ]
+  },
+
+  {
+    "image": "data:image/png;base64,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",
+    "title": "TaskPilot",
+    "companyName": "ZenSoft",
+    "id": 7,
+    "description": "TaskPilot organizes personal and team workflows using a clean interface with smart scheduling and collaboration tools. It integrates with cloud storage, enables project tracking, and automates task reminders. The app’s AI assistant prioritizes tasks based on deadlines and productivity patterns. TaskPilot is ideal for professionals managing multiple projects who need structure, clarity, and accountability in their daily planning.",
+    "size": 77,
+    "reviews": 9400,
+    "ratingAvg": 4.2,
+    "downloads": 1.9,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 850 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 3250 }
+    ]
+  },
+
+  {
+    "image": "https://www.templatetrip.com/wp-content/uploads/2022/01/00_preview.webp",
+    "title": "Travelio",
+    "companyName": "WanderApps Ltd",
+    "id": 8,
+    "description": "Travelio simplifies trip planning with itinerary building, budget tracking, and location-based recommendations. It aggregates flight, hotel, and local experience options into a unified view. Users can explore destinations, receive visa guidance, and track expenses in real time. The app provides offline maps and AI-curated travel routes, making it essential for travelers who want organized and stress-free adventures worldwide.",
+    "size": 108,
+    "reviews": 41700,
+    "ratingAvg": 4.6,
+    "downloads": 7.2,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 5300 },
+      { "name": "4 star", "count": 9600 },
+      { "name": "5 star", "count": 21600 }
+    ]
+  },
+
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWaAVxMOd8F4sBLsewuNJ7ExQGH_2NXuM8g&s",
+    "title": "CodeForge",
+    "companyName": "DevEdge Systems",
+    "id": 9,
+    "description": "CodeForge is a lightweight mobile IDE designed for developers who want to code, test, and deploy on the go. It supports multiple languages, including JavaScript, Python, and C++, with syntax highlighting and version control integration. Cloud sync ensures access to projects across devices. With AI-driven code suggestions and debugging tools, CodeForge makes mobile coding faster and more efficient than ever.",
+    "size": 124,
+    "reviews": 8600,
+    "ratingAvg": 4.1,
+    "downloads": 1.3,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3750 }
+    ]
+  },
+
+  {
+    "image": "https://play-lh.googleusercontent.com/N-EmWtPXJQkbIcYishwVQOZKKVn7Gmw0_YTEVMTjQEYu1ryJ-7qGsYHfzGJVS6BMK1c=w526-h296-rw",
+    "title": "SoundFlow",
+    "companyName": "EchoWave Media",
+    "id": 10,
+    "description": "SoundFlow delivers personalized music streaming powered by adaptive AI. It learns your taste from every play and curates daily playlists blending familiar and new artists. High-quality audio, offline downloads, and podcast integration create a unified experience. The app includes smart EQ controls and social playlists that allow users to discover and share music across genres and moods seamlessly.",
+    "size": 138,
+    "reviews": 72000,
+    "ratingAvg": 4.5,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 4900 },
+      { "name": "2 star", "count": 6200 },
+      { "name": "3 star", "count": 9800 },
+      { "name": "4 star", "count": 17600 },
+      { "name": "5 star", "count": 33500 }
+    ]
+  },
+
+  {
+    "image": "https://notehive.app/ai_note_taker_screenshot_1.png",
+    "title": "NoteHive",
+    "companyName": "Clarity Works",
+    "id": 11,
+    "description": "NoteHive combines text, voice, and sketch-based note-taking into one versatile workspace. With auto-sync, tag organization, and handwriting recognition, it adapts to academic, creative, or professional use. Notes can be shared, converted into PDFs, or connected to cloud storage platforms. Its AI suggestion system categorizes notes intelligently, improving retrieval and workflow organization for busy users.",
+    "size": 58,
+    "reviews": 11200,
+    "ratingAvg": 4.4,
+    "downloads": 2.5,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 850 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 4950 }
+    ]
+  },
+
+  {
+    "image": "https://play-lh.googleusercontent.com/7-vFg4T7Rqq5iqyg7hBC9IHdJ7sAqlq4hfs6lpZl9AOfeBido87ZQgFivXgfufnG6G0=w240-h480-rw",
+    "title": "ShopSmart",
+    "companyName": "RetailOne Tech",
+    "id": 12,
+    "description": "ShopSmart enhances online shopping by comparing prices across marketplaces, offering deals, and tracking discounts. The app uses AI-driven analytics to recommend best-value products and monitor price drops. Users can scan barcodes, save wishlists, and receive notifications for upcoming sales. With integrated cashback programs and secure checkout links, it delivers efficiency and savings in one platform.",
+    "size": 96,
+    "reviews": 35400,
+    "ratingAvg": 4.3,
+    "downloads": 6.8,
+    "ratings": [
+      { "name": "1 star", "count": 2400 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 8700 },
+      { "name": "5 star", "count": 16400 }
+    ]
+  },
+
+  {
+    "image": "https://sleepzen.co.za/cdn/shop/files/Sleep_Zen_South_Africa_Sleep_better_headphones_Sleep_headband_LOGO_1200x1200.png?v=1684168160",
+    "title": "SleepZen",
+    "companyName": "MindEase Digital",
+    "id": 13,
+    "description": "SleepZen helps users improve their sleep quality through sound therapy, bedtime stories, and breathing guidance. It monitors sleep cycles and suggests optimal sleep schedules based on body rhythm data. Users can choose from a library of calming sounds and meditation tracks to aid relaxation. The app’s analytics dashboard provides personalized tips to promote deeper and more restorative sleep.",
+    "size": 83,
+    "reviews": 17600,
+    "ratingAvg": 4.7,
+    "downloads": 4.2,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 10700 }
+    ]
+  },
+
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqV0JIWnkG62K-g8-YMAzh8y3WQIDNNNPiUQ&s",
+    "title": "DriveSafe",
+    "companyName": "AutoVision AI",
+    "id": 14,
+    "description": "DriveSafe is an AI-based driving safety assistant that detects drowsiness, distractions, and unsafe behaviors in real time. It uses the smartphone camera and sensors to monitor driver attention and alertness. The app logs trip data, analyzes driving patterns, and provides feedback to improve road safety. Parents and fleet managers can also use tracking features to ensure responsible driving habits.",
+    "size": 107,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 1.2,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 4700 }
+    ]
+  },
+
+  {
+    "image": "https://play-lh.googleusercontent.com/dokaaBu5CFHSosYAEfJdpJ0k9noFML6PytroAQhx5MRgN72JwadNi00tzAFKhc_bmmc=w526-h296-rw",
+    "title": "CookLab",
+    "companyName": "Kitchenverse Ltd",
+    "id": 15,
+    "description": "CookLab is an interactive cooking assistant with guided recipes, nutrition insights, and AI-generated meal plans. It adapts to dietary restrictions and available ingredients. Users can watch step-by-step videos, set cooking timers, and calculate calories automatically. The app’s smart pantry system helps reduce waste by suggesting recipes using existing ingredients, making home cooking easier and healthier.",
+    "size": 102,
+    "reviews": 24100,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 14300 }
+    ]
+  },
+
+  {
+    "image": "https://cdn.prod.website-files.com/5f1c9cd99129705b848a815a/65cdaafe092b857ff006b6da_Langsync.png",
+    "title": "LangSync",
+    "companyName": "LinguaTech Global",
+    "id": 16,
+    "description": "LangSync enables immersive language learning using speech recognition and AI-driven feedback. It offers lessons, conversation simulations, and pronunciation analysis in over 20 languages. Users can track daily progress and earn rewards for consistency. The app includes community practice sessions with native speakers and adaptive learning algorithms that adjust difficulty based on real performance metrics.",
+    "size": 88,
+    "reviews": 30600,
+    "ratingAvg": 4.8,
+    "downloads": 7.4,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 20800 }
+    ]
+  },
+
+  {
+    "image": "https://play-lh.googleusercontent.com/qtn6c_z9aV9fh0YW5miu_GtrJQKLZynieWZFVRGdg2nuPOtwHAWH9-emqxKyM1rUmQ=w600-h300-pc0xffffff-pd",
+    "title": "CryptoPulse",
+    "companyName": "BitLogic Labs",
+    "id": 17,
+    "description": "CryptoPulse delivers live cryptocurrency tracking, news alerts, and portfolio analysis for investors. It integrates with major exchanges to monitor prices and market trends in real time. The app visualizes data with customizable charts and AI insights. Users can set alerts for price thresholds and receive security updates. Ideal for beginners and professionals seeking data-driven crypto intelligence.",
+    "size": 91,
+    "reviews": 18900,
+    "ratingAvg": 4.4,
+    "downloads": 3.9,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 10100 }
+    ]
+  },
+
+  {
+    "image": "https://cdn.dribbble.com/userupload/8425102/file/original-786af8bec0dd62a71b57c423524c7b59.png?resize=2048x1536&vertical=center",
+    "title": "EcoTrack",
+    "companyName": "GreenSphere Tech",
+    "id": 18,
+    "description": "EcoTrack empowers users to live sustainably by tracking carbon footprints and suggesting eco-friendly actions. It calculates environmental impact from travel, energy use, and shopping habits. Users can set sustainability goals, earn eco-points, and join community challenges. The app offers personalized insights to help reduce daily emissions and contribute positively to environmental preservation.","size": 79,
+    "reviews": 10200,
+    "ratingAvg": 4.5,
+    "downloads": 2.3,
+    "ratings": [
+        { "name": "1 star", "count": 400 },
+        { "name": "2 star", "count": 700 },
+        { "name": "3 star", "count": 1500 },
+        { "name": "4 star", "count": 2900 },
+        { "name": "5 star", "count": 4700 }
+    ]
+},
+
+{
+"image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/fe/ed/77feedfe-20df-e8a6-a009-a5b006cedea0/c5985749-42b1-472a-8353-2ac396845d52_1.jpg/643x0w.jpg",
+"title": "HomeSync",
+"companyName": "SmartNest Systems",
+"id": 19,
+"description": "HomeSync unifies all your smart home devices into one app, enabling voice control, automation, and energy management. It supports devices from multiple brands, allowing users to create synchronized routines. With real-time monitoring and alerts, users can enhance security and efficiency. The app’s AI assistant learns preferences over time, automating temperature, lighting, and appliance control effortlessly.",
+"size": 132,
+"reviews": 28400,
+"ratingAvg": 4.6,
+"downloads": 6.7,
+"ratings": [
+{ "name": "1 star", "count": 1100 },
+{ "name": "2 star", "count": 1600 },
+{ "name": "3 star", "count": 2600 },
+{ "name": "4 star", "count": 6100 },
+{ "name": "5 star", "count": 17600 }
+]
+},
+
+{
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1F9UcJdahMzmYGrxE8kpevpKtm0HSNOwZQ&s",
+"title": "StorySphere",
+"companyName": "LitVerse Media",
+"id": 20,
+"description": "StorySphere is a creative writing and storytelling platform where writers can draft, publish, and collaborate on original works. It includes tools for outlining plots, character building, and feedback exchange. Readers can discover and support indie stories through subscriptions and in-app tokens. The app fosters an inclusive creative community that empowers authors and enriches digital literature.",
+"size": 94,
+"reviews": 13400,
+"ratingAvg": 4.7,
+"downloads": 3.1,
+"ratings": [
+{ "name": "1 star", "count": 500 },
+{ "name": "2 star", "count": 900 },
+{ "name": "3 star", "count": 1500 },
+{ "name": "4 star", "count": 3300 },
+{ "name": "5 star", "count": 7200 }
+]
+}
+
+]
