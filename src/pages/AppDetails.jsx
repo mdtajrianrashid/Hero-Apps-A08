@@ -10,6 +10,7 @@ import {
   CartesianGrid,
   Cell,
 } from "recharts";
+import appError from "../assets/App-Error.png";
 
 export default function AppDetails() {
   const { id } = useParams();
@@ -35,9 +36,14 @@ export default function AppDetails() {
 
   if (!app)
     return (
-      <p className="text-center mt-10 text-gray-600 dark:text-gray-300">
-        App not found.
-      </p>
+      <div className="w-full flex flex-col justify-center items-center text-center py-8 text-gray-500">
+                  <img className="mb-4" src={appError} alt="Apps Not Found" />
+                  <h1 className="text-3xl sm:text-5xl font-bold text-[#001931] mb-4">OPPS!! APP NOT FOUND</h1>
+                  <h2 className="mb-10 text-[#627382] text-xl font-normal">The App you are requesting is not found on our system.  please try another apps</h2>
+                  <a href="/apps" rel="noopener noreferrer" className="relative btn text-sm md:text-base font-semibold text-white border-0 flex justify-center items-center gap-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-lg px-5 py-2 transition-all duration-500 overflow-hidden group hover:scale-105 hover:shadow-[0_0_20px_#9F62F2]">
+                  <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent opacity-0 group-hover:opacity-100 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700 ease-in-out"></span>Go Back!
+                  </a>
+                </div>
     );
 
   const chartData = (app.ratings || [])

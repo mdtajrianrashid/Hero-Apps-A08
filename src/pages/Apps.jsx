@@ -37,7 +37,7 @@ export default function Apps() {
   };
 
   return (
-    <section className="bg-gray-50 py-16">
+    <section className="bg-gray-50 py-16 min-h-screen">
       <div className="px-6 max-w-6xl mx-auto">
         <h1 className="text-3xl sm:text-5xl font-bold text-[#001931] mb-2 text-center">
           Our All Applications
@@ -94,7 +94,7 @@ export default function Apps() {
           </div>
         ) : filteredApps.length === 0 ? (
           <div className="col-span-full text-center py-20 text-gray-500">
-            No App Found
+            No Apps Found
           </div>
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">

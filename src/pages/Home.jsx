@@ -47,12 +47,11 @@ export default function Home() {
         ))}
       </div>
 
-      <button
-        onClick={() => navigate("/apps")}
-        className="cursor-pointer mt-10 px-6 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white rounded-md hover:scale-105 transition-transform duration-300"
-      >
+      <button onClick={() => navigate("/apps")} className="relative btn text-sm md:text-base font-semibold text-white border-0 flex justify-center items-center gap-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-lg px-5 py-2 transition-all duration-500 overflow-hidden group hover:scale-105 hover:shadow-[0_0_20px_#9F62F2] mx-auto mt-12">
+        <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent opacity-0 group-hover:opacity-100 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700 ease-in-out"></span>
         Show All
       </button>
+
     </section>
      </>
   );
