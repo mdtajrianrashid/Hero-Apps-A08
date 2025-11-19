@@ -97,7 +97,7 @@ This project is developed based on the *Hero IO – Assignment 008* specificatio
 
 ## 📦 Dependencies
 
-```json
+```json```
 "dependencies": {
   "react": "^18.x",
   "react-dom": "^18.x",
