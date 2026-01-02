@@ -131,3 +131,17 @@ Follow these steps to run Hero Apps on your local machine:
 The app will usually run at:
 
 ```http://localhost:5173/```
+
+---
+
+## 👨‍💻 Author
+
+**Takian Rashid**  
+Frontend & Full-Stack Developer | Aspiring Software Engineer
+
+- **GitHub:** https://github.com/mdtakianrashid  
+- **LinkedIn:** https://www.linkedin.com/in/mdtakianrashid/
+
+---
+
+# 🎉 Thank You!
